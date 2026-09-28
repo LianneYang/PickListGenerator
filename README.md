@@ -26,7 +26,7 @@ INPUTS
 USAGE
 -----
 Web (no install):
-    https://picklistgenerator.streamlit.app
+    https://picklistgenerator.streamlit.app;
 Upload both files and click "Generate Pick List".
 
 NOTES
