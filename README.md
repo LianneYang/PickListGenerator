@@ -23,12 +23,6 @@ INPUTS
   Material, Description, Quantity (plus optional Unrestricted-Use Stock,
   Comments, Customer Material Number, Sched.agreemnt)
 
-USAGE
------
-Web (no install):
-    https://picklistgenerator.streamlit.app;
-Upload both files and click "Generate Pick List".
-
 NOTES
 -----
 - Files are processed in memory; nothing is stored on the server.
